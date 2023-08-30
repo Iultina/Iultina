@@ -11,12 +11,17 @@
     </a>
 </div>
 
+### About me
+- 🌱 I’m currently learning **Web3, GameDev**
+- 📄 Know about my experiences [CV](cv-link)
+- 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/iultina/)
+- 🌍 I speak Russian and English
+- At free time play jazz on piano and dance shuffle
+
 ---
 
 ### My stat
 
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iultina&theme=github_dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iultina&theme=github_dark" alt=""/>
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iultina&theme=github_dark" alt=""/>
 </div>
