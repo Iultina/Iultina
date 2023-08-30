@@ -12,11 +12,10 @@
 </div>
 
 ### About me
-- 🌱 I’m currently learning **Web3, GameDev**
-- 📄 Know about my experiences [CV](cv-link)
-- 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/iultina/)
+- 👉 Looking for job as junior python developer
+- 📫 Reach me by [Telegram](https://t.me/+79145369894)
 - 🌍 I speak Russian and English
-- At free time play jazz on piano and dance shuffle
+- 😻 In my spare time, I play jazz on the piano and dance shuffle
 
 ---
 
