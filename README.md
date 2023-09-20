@@ -17,7 +17,7 @@
 - 📫 Reach me by [Telegram](https://t.me/+79145369894)
 - 📃 My [CV](https://disk.yandex.ru/d/kiJR3khhtiXKnA)
 - 🌍 I speak Russian and English
-- 😻 In my spare time, I play jazz on the piano and dance shuffle
+- 😻 In my spare time, I play jazz on the piano and watch movies in english
 
 ---
 
