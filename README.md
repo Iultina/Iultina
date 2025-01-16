@@ -13,8 +13,8 @@
 </div>
 
 ### About me
-- 👉 Looking for job as junior python developer
-- 📫 Reach me by [Telegram](https://t.me/+79145369894)
+- 👉 Looking for job as middle python developer
+- 📫 Reach me by [Telegram](https://t.me/Mi_2018))
 - 📃 My [CV](https://disk.yandex.ru/d/kiJR3khhtiXKnA)
 - 🌍 I speak Russian and English
 - 😻 In my spare time, I play jazz on the piano and watch movies in english
